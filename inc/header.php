@@ -34,3 +34,4 @@
   <h2><?php echo "CRUD Using Ajax, PHP and MYSQLi"; ?></h2>
  </section>
   <section class="maincontent">
+  

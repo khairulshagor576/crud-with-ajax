@@ -7,11 +7,7 @@ include "inc/header.php";
        <th colspan="5"><button id="showData">Show Data</button></th>
     </tr>
     <tr>
-        <th>SL</th>
-        <th>Name</th>
-        <th>Email</th>
-        <th>Skill</th>
-        <th>Action</th>
+        <td id="table-id"></td>
     </tr>
 </table>
 
